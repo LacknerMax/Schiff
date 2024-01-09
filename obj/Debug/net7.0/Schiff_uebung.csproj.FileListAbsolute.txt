@@ -1,0 +1,15 @@
+C:\Users\mlack\Git\Schiff_uebung\bin\Debug\net7.0\Schiff_uebung.exe
+C:\Users\mlack\Git\Schiff_uebung\bin\Debug\net7.0\Schiff_uebung.deps.json
+C:\Users\mlack\Git\Schiff_uebung\bin\Debug\net7.0\Schiff_uebung.runtimeconfig.json
+C:\Users\mlack\Git\Schiff_uebung\bin\Debug\net7.0\Schiff_uebung.dll
+C:\Users\mlack\Git\Schiff_uebung\bin\Debug\net7.0\Schiff_uebung.pdb
+C:\Users\mlack\Git\Schiff_uebung\obj\Debug\net7.0\Schiff_uebung.csproj.AssemblyReference.cache
+C:\Users\mlack\Git\Schiff_uebung\obj\Debug\net7.0\Schiff_uebung.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mlack\Git\Schiff_uebung\obj\Debug\net7.0\Schiff_uebung.AssemblyInfoInputs.cache
+C:\Users\mlack\Git\Schiff_uebung\obj\Debug\net7.0\Schiff_uebung.AssemblyInfo.cs
+C:\Users\mlack\Git\Schiff_uebung\obj\Debug\net7.0\Schiff_uebung.csproj.CoreCompileInputs.cache
+C:\Users\mlack\Git\Schiff_uebung\obj\Debug\net7.0\Schiff_uebung.dll
+C:\Users\mlack\Git\Schiff_uebung\obj\Debug\net7.0\refint\Schiff_uebung.dll
+C:\Users\mlack\Git\Schiff_uebung\obj\Debug\net7.0\Schiff_uebung.pdb
+C:\Users\mlack\Git\Schiff_uebung\obj\Debug\net7.0\Schiff_uebung.genruntimeconfig.cache
+C:\Users\mlack\Git\Schiff_uebung\obj\Debug\net7.0\ref\Schiff_uebung.dll
